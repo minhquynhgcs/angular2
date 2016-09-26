@@ -10,6 +10,7 @@ import { ProductDetailComponent } from './product-detail/product-detail.componen
 import { LaptopsComponent } from './laptops/laptops.component';
 import { MobilesComponent } from './mobiles/mobiles.component';
 import { CategoriesComponent } from './categories/categories.component';
+import { SearchComponent } from './search/search.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { CategoriesComponent } from './categories/categories.component';
     ProductDetailComponent,
     LaptopsComponent,
     MobilesComponent,
-    CategoriesComponent
+    CategoriesComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,
