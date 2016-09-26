@@ -11,6 +11,7 @@ import { LaptopsComponent } from './laptops/laptops.component';
 import { MobilesComponent } from './mobiles/mobiles.component';
 import { CategoriesComponent } from './categories/categories.component';
 import { SearchComponent } from './search/search.component';
+import { CategoriesDetailComponent } from './categories-detail/categories-detail.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { SearchComponent } from './search/search.component';
     LaptopsComponent,
     MobilesComponent,
     CategoriesComponent,
-    SearchComponent
+    SearchComponent,
+    CategoriesDetailComponent
   ],
   imports: [
     BrowserModule,
