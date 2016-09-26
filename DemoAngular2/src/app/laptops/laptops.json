@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Apple Macbook 12\"",
+            "description": "Ultra-thin design, lightweight",
+            "price": 31490000,
+            "inStock": 6,
+            "image": "images/apple-macbook-12.png",
+            "category": "Laptop"
+        },
+        {
+            "id": 2,
+            "name": "Lenovo IdeaPad 100S",
+            "description": "CPU: Intel Atom\nSize screen: 11.6\"\nRam: 2GB",
+            "price": 3990000,
+            "inStock": 18,
+            "image": "images/lenovo-ideapad.png",
+            "category": "Laptop"
+        },
+        {
+            "id": 3,
+            "name": "Acer ES1 531",
+            "description": "CPU: Intel Pentium\nSize screen: 15.6\"\nRam: 4GB",
+            "price": 6990000,
+            "inStock": 2,
+            "image": "images/acer-es1-531.png",
+            "category": "Laptop"
+        },
+        {
+            "id": 4,
+            "name": "dell Inspiron 3452",
+            "description": "CPU: Intel Pentium\nSize screen: 14.0\"\nRam: 4GB",
+            "price": 7390000,
+            "inStock": 7,
+            "image": "images/dell-inspiron-3452.png",
+            "category": "Laptop"
+        }
+    ]
+}

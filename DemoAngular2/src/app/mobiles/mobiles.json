@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Sony Xperia XA",
+            "description": "Camera selfie 8.0MP",
+            "price": 5990000,
+            "inStock": 14,
+            "image": "images/sony-xperia-xa.png",
+            "category": "2"
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy Ạ - 2016",
+            "description": "Fashion design",
+            "price": 7990000,
+            "inStock": 10,
+            "image": "images/samsung-galaxy-a5.png",
+            "category": "2"
+        },
+        {
+            "id": 3,
+            "name": "HTC One Me",
+            "description": "Fingerprint sensor",
+            "price": 6490000,
+            "inStock": 15,
+            "image": "images/htc-one-me.png",
+            "category": "2"
+        },
+        {
+            "id": 4,
+            "name": "Oppo A37",
+            "description": "Camera selfie",
+            "price": 4490000,
+            "inStock": 17,
+            "image": "images/oppo-a37.png",
+            "category": "2"
+        }
+    ]
+}
